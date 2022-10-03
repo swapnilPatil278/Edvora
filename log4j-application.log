@@ -1,0 +1,713 @@
+2022-10-03 14:39:08,807  INFO [main] Edvora:64 - Entered URL
+2022-10-03 14:39:09,513  INFO [main] Edvora:71 - Entered Username
+2022-10-03 14:39:09,825  INFO [main] Edvora:73 - Entered password
+2022-10-03 14:39:13,959  INFO [main] Edvora:77 - Clicked on Login Button
+2022-10-03 14:39:14,643  INFO [main] Edvora:64 - Entered URL
+2022-10-03 14:39:14,976  INFO [main] Edvora:71 - Entered Username
+2022-10-03 14:39:15,314  INFO [main] Edvora:73 - Entered password
+2022-10-03 14:39:19,444  INFO [main] Edvora:77 - Clicked on Login Button
+2022-10-03 14:39:20,171  INFO [main] Edvora:64 - Entered URL
+2022-10-03 14:39:20,476  INFO [main] Edvora:71 - Entered Username
+2022-10-03 14:39:20,773  INFO [main] Edvora:73 - Entered password
+2022-10-03 14:39:24,932  INFO [main] Edvora:77 - Clicked on Login Button
+2022-10-03 14:39:25,529  INFO [main] Edvora:64 - Entered URL
+2022-10-03 14:39:25,904  INFO [main] Edvora:71 - Entered Username
+2022-10-03 14:39:26,414  INFO [main] Edvora:73 - Entered password
+2022-10-03 14:39:30,517  INFO [main] Edvora:77 - Clicked on Login Button
+2022-10-03 14:48:04,193  INFO [main] Edvora:64 - Entered URL
+2022-10-03 14:48:05,995  INFO [main] Edvora:71 - Entered Username
+2022-10-03 14:48:06,480  INFO [main] Edvora:73 - Entered password
+2022-10-03 14:48:11,389  INFO [main] Edvora:77 - Clicked on Login Button
+2022-10-03 14:48:14,309  INFO [main] Edvora:64 - Entered URL
+2022-10-03 14:48:14,606  INFO [main] Edvora:71 - Entered Username
+2022-10-03 14:48:17,185  INFO [main] Edvora:73 - Entered password
+2022-10-03 14:48:21,342  INFO [main] Edvora:77 - Clicked on Login Button
+2022-10-03 14:48:22,150  INFO [main] Edvora:64 - Entered URL
+2022-10-03 14:48:22,581  INFO [main] Edvora:71 - Entered Username
+2022-10-03 14:48:22,953  INFO [main] Edvora:73 - Entered password
+2022-10-03 14:48:27,086  INFO [main] Edvora:77 - Clicked on Login Button
+2022-10-03 14:53:50,202  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:53:50,793  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:53:51,170  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:53:55,305  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 14:53:56,276  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:53:56,558  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:53:56,874  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:54:01,008  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 14:54:01,738  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:54:02,055  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:54:02,442  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:54:06,589  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 14:54:09,174  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:54:09,475  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:54:09,835  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:54:13,966  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 14:54:14,548  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:54:14,897  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:54:15,165  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:54:19,286  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 14:54:19,883  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:54:20,176  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:54:20,477  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:54:24,656  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 14:54:26,507  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:54:26,911  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:54:27,258  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:54:31,402  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 14:54:31,846  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:54:32,126  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:54:32,413  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:54:36,512  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 14:55:52,539  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:55:53,019  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:55:53,503  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:55:57,655  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 14:55:58,790  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:55:59,051  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:55:59,406  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:56:03,552  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 14:56:04,490  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:56:04,844  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:56:05,185  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:56:09,318  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 14:56:09,876  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:56:10,169  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:56:10,465  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:56:14,601  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 14:56:15,319  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:56:15,583  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:56:15,877  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:56:20,035  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 14:56:20,478  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:56:20,718  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:56:20,966  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:56:25,100  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 14:56:27,890  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:56:28,095  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:56:28,359  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:56:32,466  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 14:56:33,068  INFO [main] Edvora:57 - Entered URL
+2022-10-03 14:56:33,462  INFO [main] Edvora:64 - Entered Username
+2022-10-03 14:56:33,840  INFO [main] Edvora:66 - Entered password
+2022-10-03 14:56:37,981  INFO [main] Edvora:70 - Clicked on Login Button
+2022-10-03 15:17:02,197  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:17:03,981  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:17:04,531  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:17:04,897  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:17:49,534  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:17:49,755  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:17:49,986  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:17:50,150  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:17:54,116  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:17:54,427  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:17:54,696  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:17:54,802  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:17:59,846  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:18:00,093  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:18:00,322  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:18:00,437  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:18:02,357  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:18:02,629  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:18:02,851  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:18:02,994  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:18:08,893  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:18:09,095  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:18:09,315  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:18:09,455  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:18:14,246  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:18:14,531  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:18:14,790  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:18:14,907  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:18:18,115  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:18:18,492  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:18:18,890  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:18:19,153  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:20:37,089  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:20:37,808  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:20:38,246  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:20:38,390  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:20:48,672  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:20:48,982  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:20:49,345  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:20:49,577  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:20:51,652  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:20:51,996  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:20:52,362  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:20:52,546  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:20:55,494  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:20:55,759  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:20:56,072  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:20:56,245  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:20:58,335  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:20:58,763  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:20:58,972  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:20:59,162  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:21:00,877  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:21:01,130  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:21:01,365  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:21:01,527  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:21:03,423  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:21:03,636  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:21:03,974  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:21:04,119  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:21:06,210  INFO [main] Edvora:57 - Entered URL
+2022-10-03 15:21:06,460  INFO [main] Edvora:64 - Entered Username
+2022-10-03 15:21:06,704  INFO [main] Edvora:66 - Entered password
+2022-10-03 15:21:06,829  INFO [main] Edvora:69 - Clicked on Login Button
+2022-10-03 15:40:35,997  INFO [main] Edvora:15 - Entered URL
+2022-10-03 15:40:38,820  INFO [main] Edvora:22 - Entered Username
+2022-10-03 15:40:39,248  INFO [main] Edvora:24 - Entered password
+2022-10-03 15:40:39,525  INFO [main] Edvora:27 - Clicked on Login Button
+2022-10-03 15:40:43,007  INFO [main] Edvora:15 - Entered URL
+2022-10-03 15:40:43,353  INFO [main] Edvora:22 - Entered Username
+2022-10-03 15:40:43,725  INFO [main] Edvora:24 - Entered password
+2022-10-03 15:40:43,958  INFO [main] Edvora:27 - Clicked on Login Button
+2022-10-03 15:40:48,550  INFO [main] Edvora:15 - Entered URL
+2022-10-03 15:40:49,045  INFO [main] Edvora:22 - Entered Username
+2022-10-03 15:40:49,410  INFO [main] Edvora:24 - Entered password
+2022-10-03 15:40:49,594  INFO [main] Edvora:27 - Clicked on Login Button
+2022-10-03 15:40:51,537  INFO [main] Edvora:15 - Entered URL
+2022-10-03 15:40:51,863  INFO [main] Edvora:22 - Entered Username
+2022-10-03 15:40:52,259  INFO [main] Edvora:24 - Entered password
+2022-10-03 15:40:52,535  INFO [main] Edvora:27 - Clicked on Login Button
+2022-10-03 15:40:53,905  INFO [main] Edvora:15 - Entered URL
+2022-10-03 15:40:54,221  INFO [main] Edvora:22 - Entered Username
+2022-10-03 15:40:54,513  INFO [main] Edvora:24 - Entered password
+2022-10-03 15:40:54,717  INFO [main] Edvora:27 - Clicked on Login Button
+2022-10-03 15:40:56,469  INFO [main] Edvora:15 - Entered URL
+2022-10-03 15:40:56,805  INFO [main] Edvora:22 - Entered Username
+2022-10-03 15:40:57,079  INFO [main] Edvora:24 - Entered password
+2022-10-03 15:40:57,229  INFO [main] Edvora:27 - Clicked on Login Button
+2022-10-03 15:40:58,674  INFO [main] Edvora:15 - Entered URL
+2022-10-03 15:40:58,929  INFO [main] Edvora:22 - Entered Username
+2022-10-03 15:40:59,254  INFO [main] Edvora:24 - Entered password
+2022-10-03 15:40:59,473  INFO [main] Edvora:27 - Clicked on Login Button
+2022-10-03 15:41:01,282  INFO [main] Edvora:15 - Entered URL
+2022-10-03 15:41:01,580  INFO [main] Edvora:22 - Entered Username
+2022-10-03 15:41:01,875  INFO [main] Edvora:24 - Entered password
+2022-10-03 15:41:02,034  INFO [main] Edvora:27 - Clicked on Login Button
+2022-10-03 16:07:05,696  INFO [main] Edvora:51 - Entered URL
+2022-10-03 16:07:06,928  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 16:07:07,773  INFO [main] Edvora:63 - Entered Username
+2022-10-03 16:07:08,302  INFO [main] Edvora:66 - Entered password
+2022-10-03 16:07:08,719  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 16:07:08,779  INFO [main] Edvora:72 - Pop-up accepted
+2022-10-03 16:07:57,699  INFO [main] Edvora:51 - Entered URL
+2022-10-03 16:07:58,034  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 16:07:58,291  INFO [main] Edvora:63 - Entered Username
+2022-10-03 16:07:58,606  INFO [main] Edvora:66 - Entered password
+2022-10-03 16:07:58,802  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 16:07:59,412  INFO [main] Edvora:51 - Entered URL
+2022-10-03 16:07:59,708  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 16:07:59,999  INFO [main] Edvora:63 - Entered Username
+2022-10-03 16:08:00,316  INFO [main] Edvora:66 - Entered password
+2022-10-03 16:08:00,507  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 16:08:00,587  INFO [main] Edvora:72 - Pop-up accepted
+2022-10-03 16:10:43,786  INFO [main] Edvora:51 - Entered URL
+2022-10-03 16:10:44,173  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 16:10:44,431  INFO [main] Edvora:63 - Entered Username
+2022-10-03 16:10:44,820  INFO [main] Edvora:66 - Entered password
+2022-10-03 16:10:45,879  INFO [main] Edvora:51 - Entered URL
+2022-10-03 16:10:46,156  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 16:10:46,387  INFO [main] Edvora:63 - Entered Username
+2022-10-03 16:10:46,676  INFO [main] Edvora:66 - Entered password
+2022-10-03 16:10:46,906  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 16:10:47,510  INFO [main] Edvora:51 - Entered URL
+2022-10-03 16:10:47,776  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 16:10:48,025  INFO [main] Edvora:63 - Entered Username
+2022-10-03 16:10:48,376  INFO [main] Edvora:66 - Entered password
+2022-10-03 16:10:48,561  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 16:13:55,287  INFO [main] Edvora:51 - Entered URL
+2022-10-03 16:13:55,799  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 16:13:56,070  INFO [main] Edvora:63 - Entered Username
+2022-10-03 16:13:56,460  INFO [main] Edvora:66 - Entered password
+2022-10-03 16:13:56,733  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 16:14:02,595  INFO [main] Edvora:51 - Entered URL
+2022-10-03 16:14:02,983  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 16:14:03,211  INFO [main] Edvora:63 - Entered Username
+2022-10-03 16:14:03,613  INFO [main] Edvora:66 - Entered password
+2022-10-03 16:14:03,831  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 16:14:08,894  INFO [main] Edvora:73 - Pop-up accepted
+2022-10-03 16:14:09,825  INFO [main] Edvora:51 - Entered URL
+2022-10-03 16:14:10,106  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 16:14:10,438  INFO [main] Edvora:63 - Entered Username
+2022-10-03 16:14:10,765  INFO [main] Edvora:66 - Entered password
+2022-10-03 16:14:10,985  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 16:14:16,038  INFO [main] Edvora:73 - Pop-up accepted
+2022-10-03 16:17:08,522  INFO [main] Edvora:51 - Entered URL
+2022-10-03 16:17:09,032  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 16:17:10,144  INFO [main] Edvora:51 - Entered URL
+2022-10-03 16:17:10,546  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 16:17:10,771  INFO [main] Edvora:63 - Entered Username
+2022-10-03 16:17:11,134  INFO [main] Edvora:66 - Entered password
+2022-10-03 16:17:11,432  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 16:17:16,490  INFO [main] Edvora:73 - Pop-up accepted
+2022-10-03 16:17:19,917  INFO [main] Edvora:51 - Entered URL
+2022-10-03 16:17:20,128  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 16:17:20,372  INFO [main] Edvora:63 - Entered Username
+2022-10-03 16:17:20,669  INFO [main] Edvora:66 - Entered password
+2022-10-03 16:17:20,787  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 16:17:25,825  INFO [main] Edvora:73 - Pop-up accepted
+2022-10-03 16:19:46,815  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:19:47,366  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:19:47,647  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:19:48,029  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:19:48,359  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:19:55,108  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:19:55,307  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:19:55,564  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:19:55,810  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:19:55,930  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:20:01,041  INFO [main] Edvora:77 - Pop-up accepted
+2022-10-03 16:20:02,488  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:20:02,709  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:20:03,032  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:20:03,308  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:20:03,496  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:20:08,540  INFO [main] Edvora:77 - Pop-up accepted
+2022-10-03 16:22:10,715  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:22:11,245  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:22:11,525  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:22:11,920  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:22:12,197  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:22:17,213  INFO [main] Edvora:77 - Pop-up accepted
+2022-10-03 16:22:18,329  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:22:18,618  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:22:18,847  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:22:19,167  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:22:19,331  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:22:24,344  INFO [main] Edvora:77 - Pop-up accepted
+2022-10-03 16:22:25,905  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:22:26,255  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:22:26,579  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:22:26,859  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:22:27,066  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:22:32,080  INFO [main] Edvora:77 - Pop-up accepted
+2022-10-03 16:23:26,751  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:23:27,406  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:23:27,661  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:23:28,055  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:23:28,342  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:23:33,354  INFO [main] Edvora:77 - Pop-up accepted
+2022-10-03 16:23:33,957  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:23:34,239  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:23:34,460  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:23:34,688  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:23:34,834  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:23:39,853  INFO [main] Edvora:77 - Pop-up accepted
+2022-10-03 16:23:40,510  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:23:40,787  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:23:41,087  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:23:41,371  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:23:41,545  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:23:46,552  INFO [main] Edvora:77 - Pop-up accepted
+2022-10-03 16:25:30,098  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:25:30,556  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:25:30,810  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:25:31,190  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:25:32,390  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:25:32,646  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:25:32,867  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:25:33,200  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:25:33,504  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:25:38,519  INFO [main] Edvora:77 - Pop-up accepted
+2022-10-03 16:25:40,671  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:25:40,902  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:25:41,202  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:25:41,726  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:25:41,884  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:25:46,889  INFO [main] Edvora:77 - Pop-up accepted
+2022-10-03 16:27:57,898  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:27:58,330  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:27:58,617  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:27:59,211  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:27:59,391  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:28:04,409  INFO [main] Edvora:77 - Pop-up accepted
+2022-10-03 16:28:12,092  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:28:12,415  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:28:12,915  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:28:13,354  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:28:13,791  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:28:18,822  INFO [main] Edvora:77 - Pop-up accepted
+2022-10-03 16:28:23,947  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:28:24,222  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:28:24,524  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:28:24,852  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:28:25,068  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:28:30,076  INFO [main] Edvora:77 - Pop-up accepted
+2022-10-03 16:29:54,823  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:29:55,326  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:29:55,597  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:29:56,004  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:29:58,700  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:29:58,998  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:29:59,234  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:29:59,726  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:29:59,939  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:30:06,605  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:34:00,032  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:34:00,638  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:34:00,929  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:34:01,255  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:34:02,471  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:34:02,734  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:34:02,964  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:34:03,301  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:34:03,504  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:34:04,361  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:34:04,631  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:34:04,953  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:34:05,284  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:34:05,481  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:37:51,649  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:37:52,207  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:37:52,489  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:37:52,799  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:37:52,919  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:37:53,552  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:37:54,018  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:37:54,220  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:37:54,590  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:37:54,724  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:37:55,355  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:37:55,623  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:37:55,933  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:37:56,268  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:37:56,448  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:39:21,314  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:39:22,008  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:39:22,399  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:39:22,777  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:39:23,050  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:39:34,079  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:39:34,333  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 16:39:34,545  INFO [main] Edvora:67 - Entered Username
+2022-10-03 16:39:34,781  INFO [main] Edvora:70 - Entered password
+2022-10-03 16:39:34,934  INFO [main] Edvora:73 - Clicked on Create account button
+2022-10-03 16:39:44,977  INFO [main] Edvora:79 - Pop-up accepted
+2022-10-03 16:39:49,217  INFO [main] Edvora:55 - Entered URL
+2022-10-03 16:39:49,927  INFO [main] Edvora:64 - Clicked on Sign In button
+2022-10-03 17:00:20,243  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:00:22,584  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:00:23,200  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:00:24,265  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:00:24,541  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:00:24,759  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:00:25,174  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:00:25,416  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:00:35,634  INFO [main] Edvora:75 - Pop-up accepted
+2022-10-03 17:00:40,041  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:00:40,299  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:00:40,721  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:00:40,967  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:00:41,126  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:00:51,240  INFO [main] Edvora:75 - Pop-up accepted
+2022-10-03 17:03:12,886  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:03:13,513  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:03:13,900  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:03:14,062  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:03:14,965  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:03:15,252  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:03:15,574  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:03:15,755  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:03:16,266  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:03:16,606  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:03:16,938  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:03:17,141  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:03:18,664  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:03:18,932  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:03:19,269  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:03:19,460  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:03:19,938  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:03:20,202  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:03:20,437  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:03:20,573  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:03:21,084  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:03:21,309  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:03:21,530  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:03:21,701  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:03:22,143  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:03:22,368  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:03:22,690  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:03:22,839  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:03:23,281  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:03:23,561  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:03:23,797  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:03:23,942  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:03:40,354  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:03:40,758  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:03:41,048  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:03:41,436  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:03:41,641  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:03:51,686  INFO [main] Edvora:75 - Pop-up accepted
+2022-10-03 17:03:53,574  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:03:53,830  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:03:54,058  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:03:54,385  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:03:54,566  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:04:04,673  INFO [main] Edvora:75 - Pop-up accepted
+2022-10-03 17:04:08,105  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:04:08,434  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:04:08,779  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:04:09,121  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:04:09,320  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:07:43,486  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:08:56,653  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:08:57,979  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:08:58,203  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:08:58,320  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:17:17,561  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:17:20,139  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:17:20,567  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:17:20,756  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:17:22,150  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:17:22,788  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:17:23,147  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:17:23,408  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:17:24,336  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:17:24,769  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:17:25,313  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:17:25,521  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:17:26,135  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:17:26,483  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:17:26,842  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:17:27,024  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:17:27,675  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:17:27,981  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:17:28,271  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:17:28,461  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:17:29,975  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:17:30,286  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:17:30,585  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:17:30,770  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:17:31,319  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:17:31,645  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:17:31,953  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:17:32,108  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:17:32,617  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:17:33,019  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:17:33,290  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:17:33,430  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:17:59,181  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:17:59,587  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:17:59,841  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:18:00,201  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:18:01,266  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:18:01,528  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:18:01,751  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:18:02,027  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:18:02,390  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:18:12,463  INFO [main] Edvora:75 - Pop-up accepted
+2022-10-03 17:18:13,427  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:18:13,637  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:18:13,930  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:18:14,245  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:18:14,395  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:18:24,526  INFO [main] Edvora:75 - Pop-up accepted
+2022-10-03 17:21:55,766  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:21:56,217  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:21:56,484  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:21:56,922  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:21:59,509  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:21:59,826  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:22:00,071  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:22:00,359  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:22:00,566  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:22:10,622  INFO [main] Edvora:75 - Pop-up accepted
+2022-10-03 17:22:11,530  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:22:11,778  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:22:12,171  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:22:12,504  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:22:12,760  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:22:22,804  INFO [main] Edvora:75 - Pop-up accepted
+2022-10-03 17:22:37,847  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:22:38,428  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:22:38,893  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:22:39,022  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:22:39,635  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:22:40,127  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:22:40,426  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:22:40,646  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:22:41,346  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:22:41,660  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:22:41,996  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:22:42,214  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:22:42,864  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:22:43,118  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:22:43,436  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:22:43,618  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:22:44,176  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:22:44,462  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:22:44,825  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:22:45,013  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:22:45,512  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:22:45,740  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:22:46,004  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:22:47,852  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:22:49,494  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:22:49,725  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:22:49,990  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:22:50,161  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:22:50,769  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:22:51,082  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:22:51,340  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:22:51,493  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:24:28,551  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:24:28,957  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:24:29,193  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:24:29,624  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:24:29,857  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:24:41,187  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:24:41,468  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:24:41,806  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:24:42,104  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:24:42,294  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:24:52,520  INFO [main] Edvora:75 - Pop-up accepted
+2022-10-03 17:24:53,331  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:24:53,613  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:24:53,978  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:24:54,500  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:24:54,733  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:25:04,782  INFO [main] Edvora:75 - Pop-up accepted
+2022-10-03 17:25:18,236  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:25:18,704  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:25:19,052  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:25:19,176  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:25:24,118  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:25:24,406  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:25:24,707  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:25:24,894  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:25:29,567  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:25:29,886  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:25:30,273  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:25:30,505  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:25:35,815  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:25:36,104  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:25:36,447  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:25:36,660  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:25:41,327  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:25:41,618  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:25:41,861  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:25:42,114  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:25:47,229  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:25:47,482  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:25:47,719  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:25:47,903  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:25:52,317  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:25:52,580  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:25:52,867  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:25:52,998  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:25:57,489  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:25:57,743  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:25:57,962  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:25:58,088  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:32:00,671  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:32:01,182  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:32:01,524  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:32:02,448  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:32:03,026  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:32:03,240  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:32:03,545  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:32:03,756  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:32:13,808  INFO [main] Edvora:75 - Pop-up accepted
+2022-10-03 17:32:19,511  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:32:20,046  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:32:20,387  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:32:20,788  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:32:20,990  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:48:30,592  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:48:34,225  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:48:35,351  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:48:35,640  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:48:36,183  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:48:36,912  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:48:37,504  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:48:48,092  INFO [main] Edvora:75 - Pop-up accepted
+2022-10-03 17:48:52,176  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:48:52,529  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:49:24,499  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:49:24,979  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:49:25,400  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:49:26,259  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:49:31,313  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:49:31,622  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:49:31,851  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:49:32,058  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:49:36,749  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:49:37,058  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:49:37,346  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:49:37,501  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:49:42,981  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:49:43,297  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:49:43,746  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:49:43,977  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:49:48,654  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:49:48,967  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:49:49,191  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:49:49,361  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:49:53,957  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:49:54,265  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:49:54,513  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:49:54,698  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:49:59,123  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:49:59,438  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:49:59,736  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:49:59,868  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:50:04,559  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:50:04,853  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:50:05,234  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:50:05,523  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:54:59,625  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:55:01,676  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:55:02,960  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:55:03,498  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:55:07,360  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:55:07,775  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:55:08,016  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:55:13,214  INFO [main] Edvora:75 - Pop-up accepted
+2022-10-03 17:55:18,850  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:55:19,049  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:55:19,341  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:55:19,621  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:55:19,720  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:55:24,866  INFO [main] Edvora:75 - Pop-up accepted
+2022-10-03 17:56:03,985  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:56:04,811  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:56:05,206  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:56:05,410  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:56:15,458  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:56:15,999  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:56:16,412  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:56:16,693  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:56:26,795  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:56:27,143  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:56:27,524  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:56:27,857  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:56:37,381  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:56:37,684  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:56:38,344  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:56:38,667  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:56:48,325  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:56:48,619  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:56:48,859  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:56:49,142  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:56:58,180  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:56:58,416  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:56:58,713  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:56:58,848  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:57:11,256  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:57:11,505  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:57:11,795  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:57:11,961  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:57:21,023  INFO [main] Edvora:23 - Entered URL
+2022-10-03 17:57:21,310  INFO [main] Edvora:30 - Entered Username
+2022-10-03 17:57:21,544  INFO [main] Edvora:32 - Entered password
+2022-10-03 17:57:21,657  INFO [main] Edvora:35 - Clicked on Login Button
+2022-10-03 17:58:40,859  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:58:44,889  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:58:46,036  INFO [main] Edvora:51 - Entered URL
+2022-10-03 17:58:46,352  INFO [main] Edvora:60 - Clicked on Sign In button
+2022-10-03 17:58:46,975  INFO [main] Edvora:63 - Entered Username
+2022-10-03 17:58:47,434  INFO [main] Edvora:66 - Entered password
+2022-10-03 17:58:47,943  INFO [main] Edvora:69 - Clicked on Create account button
+2022-10-03 17:58:53,023  INFO [main] Edvora:75 - Pop-up accepted
