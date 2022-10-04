@@ -35,12 +35,7 @@ public class TC_LoginTest_002 extends BaseClass {
 		logger.info("Clicked on Login Button");
 		
 		Thread.sleep(4000);
-		try {		
-		driver.switchTo().alert().accept();
-		} catch(Exception e) {
-			e.printStackTrace();
-		}
-		Thread.sleep(4000);
+
 		if (status.equals("Valid")) {
 
 			if (driver.getCurrentUrl().equals("https://testing-assessment-foh15kew9-edvora.vercel.app/s")) {

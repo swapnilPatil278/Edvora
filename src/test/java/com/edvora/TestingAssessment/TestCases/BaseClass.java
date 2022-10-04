@@ -1,7 +1,15 @@
 package com.edvora.TestingAssessment.TestCases;
 
+import java.io.File;
+import java.io.IOException;
+import java.text.SimpleDateFormat;
+import java.util.Date;
+
+import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.edge.EdgeDriver;
@@ -16,7 +24,7 @@ public class BaseClass {
 	public static WebDriver driver;
 	public static Logger logger;
 	public static String BaseURL="https://testing-assessment-foh15kew9-edvora.vercel.app/";
-	
+	public String timeStamp;
 	@BeforeClass
 	@Parameters("browser")
 	public void setup(String br)
@@ -50,6 +58,21 @@ public class BaseClass {
 	public void tearDown()
 	{
 		driver.quit();
+	}
+	
+	public void takeScreenshot() throws IOException
+	{
+		timeStamp=new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
+		
+		TakesScreenshot ts=(TakesScreenshot) driver;
+	
+		File source=ts.getScreenshotAs(OutputType.FILE);
+		
+		String screenshotPath=".\\Screenshot\\ScreenshotAt"+timeStamp+".png";
+		
+		File target=new File(screenshotPath);
+		FileUtils.copyFile(source, target);
+		
 	}
 
 }

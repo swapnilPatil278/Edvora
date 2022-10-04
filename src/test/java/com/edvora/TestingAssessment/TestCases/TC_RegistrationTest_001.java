@@ -71,7 +71,15 @@ public class TC_RegistrationTest_001 extends BaseClass {
 		Thread.sleep(5000);
 				
 		try {
-			driver.switchTo().alert().accept();
+			
+			if(driver.switchTo().alert().getText().equals("Account successfully created"))
+				driver.switchTo().alert().accept();
+			else {
+				Assert.assertTrue(false);
+			    System.out.println("Message should be - Account successfully created instead of -"+driver.switchTo().alert().getText());
+			    System.out.println("Spelling mistake in message...");
+			}
+			
 			logger.info("Pop-up accepted");	
 		} catch(Exception e) {
 			e.printStackTrace();

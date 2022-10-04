@@ -8,36 +8,14 @@
 <body>
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
-<tr><th colspan="8">Failed suite [Suite]</th></tr>
-<tr><td><a href="#t0">Test1(failed)</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">51,781</td><td></td><td></td></tr>
+<tr><th colspan="8">Suite</th></tr>
+<tr><td><a href="#t0">Test3</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">59,288</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Failed suite [Suite]</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test1(failed) &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.edvora.TestingAssessment.TestCases.TC_RegistrationTest_001</td><td><a href="#m0">Registration</a></td><td rowspan="1">1664800118613</td><td rowspan="1">6819</td></tr><tr><th colspan="4">Test1(failed) &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.edvora.TestingAssessment.TestCases.TC_RegistrationTest_001</td><td><a href="#m1">Registration</a></td><td rowspan="1">1664800125455</td><td rowspan="1">12629</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test3 &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">com.edvora.TestingAssessment.TestCases.TC_VerifyProfileEditTest_003</td><td><a href="#m0">ProfileEdit</a></td><td rowspan="1">1664862219616</td><td rowspan="1">14679</td></tr></tbody>
 </table>
-<h2>Test1(failed)</h2><h3 id="m0">com.edvora.TestingAssessment.TestCases.TC_RegistrationTest_001#Registration</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>abc</td><td>abc</td></tr><tr><th colspan="2">Exception</th></tr><tr><td colspan="2"><div class="stacktrace">org.openqa.selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
-  (Session info: chrome=106.0.5249.62)
-For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
-Build info: version: &apos;4.3.0&apos;, revision: &apos;a4995e2c09*&apos;
-System info: host: &apos;DESKTOP-9HB2MMB&apos;, ip: &apos;192.168.96.110&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;18.0.1.1&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Command: [f62aea6b9b45a6e9349918740de57887, sendKeysToElement {id=b7dbab13-46a1-4e54-bbb1-a2e5b3c36e24, value=[Ljava.lang.CharSequence;@772caabe}]
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 106.0.5249.62, chrome: {chromedriverVersion: 106.0.5249.61 (511755355844..., userDataDir: C:\Users\SWAPNIL\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:50155}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:50155/devtoo..., se:cdpVersion: 106.0.5249.62, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Element: [[ChromeDriver: chrome on WINDOWS (f62aea6b9b45a6e9349918740de57887)] -&gt; xpath: //input[@autocomplete=&apos;username&apos;]]
-Session ID: f62aea6b9b45a6e9349918740de57887
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
-	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:569)
-	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
-	at org.openqa.selenium.remote.RemoteWebElement.sendKeys(RemoteWebElement.java:113)
-	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
-	at jdk.proxy2/jdk.proxy2.$Proxy19.sendKeys(Unknown Source)
-	at com.edvora.TestingAssessment.Pages.RegistrationPage.EnterUsername(RegistrationPage.java:34)
-	at com.edvora.TestingAssessment.TestCases.TC_RegistrationTest_001.Registration(TC_RegistrationTest_001.java:62)
+<h2>Test3</h2><h3 id="m0">com.edvora.TestingAssessment.TestCases.TC_VerifyProfileEditTest_003#ProfileEdit</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: expected [true] but found [false]
+	at com.edvora.TestingAssessment.TestCases.TC_VerifyProfileEditTest_003.ProfileEdit(TC_VerifyProfileEditTest_003.java:59)
 	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-... Removed 30 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m1">com.edvora.TestingAssessment.TestCases.TC_RegistrationTest_001#Registration</h3><table class="result"><tr class="param"><th>Parameter #1</th><th>Parameter #2</th></tr><tr class="param stripe"><td>abc12</td><td>abc12</td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+... Removed 29 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>
